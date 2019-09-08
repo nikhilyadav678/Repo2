@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is D20E-9FC9
-
- Directory of C:\Users\Nikhil\Desktop\OTM Implementation\Curl COmmand\MyProject
-
-08/09/2019  10:25    <DIR>          .
-08/09/2019  10:25    <DIR>          ..
-08/09/2019  10:25                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  409,601,945,600 bytes free
+change 1
